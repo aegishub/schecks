@@ -1,2 +1,2 @@
 # schecks
-My sast code cheks
+Gravitec jscript code checks
